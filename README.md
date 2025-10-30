@@ -44,7 +44,7 @@ The goal is to help healthcare stakeholders make **data-driven decisions** to im
 
 
 ### **Full Dashboard**
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](image/dashboard_overview.png)
 
 ### **Cost by Condition**
 ![Cost by Condition](images/cost_by_condition.png)
