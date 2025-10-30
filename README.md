@@ -47,14 +47,14 @@ The goal is to help healthcare stakeholders make **data-driven decisions** to im
 [Dashboard Overview](images/dashboard_overview.png)
 
 ### **Cost by Condition**
-![Cost by Condition](images/cost_by_condition.png)
+[Cost by Condition](images/cost_by_condition.png)
 
 ### **Satisfaction by Procedure**
-![Satisfaction by Procedure](images/satisfaction_by_procedure.png)
+[Satisfaction by Procedure](images/satisfaction_by_procedure.png)
 
 
 📄 **Download Dashboard PDF:**  
-[Click here to view the dashboard PDF](documents/Healthcare_Patient_Analysis_Dashboard.pdf)
+[Click here to view the dashboard PDF](Healthcare_Patient_Analysis_Dashboard.pdf)
 
 ---
 
